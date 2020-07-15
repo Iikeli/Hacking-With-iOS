@@ -13,6 +13,7 @@
 		54FCDD0B24BB98A000477F42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54FCDD0A24BB98A000477F42 /* Assets.xcassets */; };
 		54FCDD0E24BB98A000477F42 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54FCDD0D24BB98A000477F42 /* Preview Assets.xcassets */; };
 		54FCDD1124BB98A000477F42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54FCDD0F24BB98A000477F42 /* LaunchScreen.storyboard */; };
+		54FCDD1924BF12A000477F42 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 54FCDD1824BF12A000477F42 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		54FCDD0D24BB98A000477F42 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		54FCDD1024BB98A000477F42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54FCDD1224BB98A000477F42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54FCDD1824BF12A000477F42 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				54FCDD0A24BB98A000477F42 /* Assets.xcassets */,
 				54FCDD0F24BB98A000477F42 /* LaunchScreen.storyboard */,
 				54FCDD1224BB98A000477F42 /* Info.plist */,
+				54FCDD1824BF12A000477F42 /* start.txt */,
 				54FCDD0C24BB98A000477F42 /* Preview Content */,
 			);
 			path = WordScramble;
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				54FCDD1124BB98A000477F42 /* LaunchScreen.storyboard in Resources */,
+				54FCDD1924BF12A000477F42 /* start.txt in Resources */,
 				54FCDD0E24BB98A000477F42 /* Preview Assets.xcassets in Resources */,
 				54FCDD0B24BB98A000477F42 /* Assets.xcassets in Resources */,
 			);
